@@ -1,8 +1,8 @@
 {
   "version": 2,
   "business": {
-    "name": "Sea & Spa 2",
-    "name_en": "Sea & Spa 2",
+    "name": "Sea & Spa 3",
+    "name_en": "Sea & Spa 3",
     "site_lang": "he",
     "available_langs": [
       "he",
@@ -89,11 +89,12 @@
     }
   ],
   "design": {
-    "color_primary": "violet",
-    "color_secondary": "purple",
+    "color_primary": "pink",
+    "color_secondary": "emerald",
     "hero_gradient": "from-violet-950 via-purple-900 to-indigo-950",
     "contact_gradient": "from-violet-950 to-purple-900",
-    "section_dark_bg": "#2e1065"
+    "section_dark_bg": "#2e1065",
+    "body_bg": "#f8fafc"
   },
   "sections": [
     {
