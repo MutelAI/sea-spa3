@@ -610,7 +610,7 @@
     {
       "id": "location",
       "variant": "",
-      "visible": true
+      "visible": false
     },
     {
       "id": "pricing",
