@@ -1,0 +1,690 @@
+{
+  "version": 2,
+  "business": {
+    "name": "Sea & Spa",
+    "name_en": "Sea & Spa",
+    "site_lang": "he",
+    "available_langs": [
+      "he",
+      "en"
+    ],
+    "phone": "0737533372",
+    "phone_display": "073-753-3372",
+    "whatsapp": "",
+    "website": "https://www.seanspa.co.il/",
+    "rating": 4.5,
+    "reviews_count": 45,
+    "address_he": "בן יהודה 100, תל אביב-יפו",
+    "address_en": "Ben Yehuda St 100, Tel Aviv-Yafo",
+    "category_he": "ספא",
+    "category_en": "Spa",
+    "maps_url": "https://maps.google.com/?q=32.089707,34.7601603",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEAlHus5fotVyZSGoZvoNLE-fUFM43hhSQBkKUBwHTsaGevg8y_Af8KpNn3daZZcdj7RH_-Ck1D_w7HHzVlAJEN-bWfqsZYvTNWye6ubfHpD6_Ze9NtLE2jOIHlTDHfM32KPvw2G4IwLas=w408-h272-k-no",
+    "logo_emoji": "Sparkles",
+    "geo": {
+      "latitude": 32.089707,
+      "longitude": 34.7601603
+    },
+    "schema_type": "HealthAndBeautyBusiness",
+    "price_range": "moderate",
+    "source_url": "https://maps.app.goo.gl/F74V6NgNzU3LfdBv8",
+    "cache_key": "F74V6NgNzU3LfdBv8"
+  },
+  "editToken": "bc1344807fd34e290082b08189e1e111",
+  "hours": [
+    {
+      "day_key": "sunday",
+      "day_he": "ראשון",
+      "day_en": "Sunday",
+      "hours_he": "9:00 - 21:00",
+      "hours_en": "9 am–9 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "monday",
+      "day_he": "שני",
+      "day_en": "Monday",
+      "hours_he": "9:00 - 21:00",
+      "hours_en": "9 am–9 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "tuesday",
+      "day_he": "שלישי",
+      "day_en": "Tuesday",
+      "hours_he": "9:00 - 21:00",
+      "hours_en": "9 am–9 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "wednesday",
+      "day_he": "רביעי",
+      "day_en": "Wednesday",
+      "hours_he": "9:00 - 21:00",
+      "hours_en": "9 am–9 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "thursday",
+      "day_he": "חמישי",
+      "day_en": "Thursday",
+      "hours_he": "9:00 - 21:00",
+      "hours_en": "9 am–9 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "friday",
+      "day_he": "שישי",
+      "day_en": "Friday",
+      "hours_he": "9:00 - 17:00",
+      "hours_en": "9 am–5 pm",
+      "is_open": true
+    },
+    {
+      "day_key": "saturday",
+      "day_he": "שבת",
+      "day_en": "Saturday",
+      "hours_he": "סגור",
+      "hours_en": "Closed",
+      "is_open": false
+    }
+  ],
+  "design": {},
+  "sections": [
+    {
+      "id": "hero",
+      "variant": "D",
+      "visible": true,
+      "content": {
+        "badge": {
+          "he": "ספא חממ ומטפח שמעניק חוויה שלא תשכחו בכל פרט",
+          "en": "A warm and caring spa that delivers unforgettable experiences in every detail"
+        },
+        "subtitle": {
+          "he": "בואו להנות מעיסוי מפנק, ג'קוזי חם ורוח של נתינה עצמית שלמה. Sea & Spa הוא המקום שלך לברוח מהלחץ היומיומי ולחזור בחדש.",
+          "en": "Indulge in a luxurious massage, warm jacuzzi, and the complete peace of mind you deserve. Sea & Spa is your escape from daily stress and your path to rejuvenation."
+        },
+        "available": {
+          "he": "זמין עכשיו",
+          "en": "Available Now"
+        }
+      }
+    },
+    {
+      "id": "about",
+      "variant": "D",
+      "visible": true,
+      "content": {
+        "desc": {
+          "he": "Sea & Spa הוא מקום מיוחד שמעניק לך הפסקה אמיתית מן החיים. המטפלים המיומנים שלנו, הסביבה הנקייה ומסודרת, וההשקעה האישית של בעלי המקום בכל פרט, יוצרות חוויה שתרגישו בכל שריר בגופכם. בין אם באתם לבד או כזוג, אתם בבית.",
+          "en": "Sea & Spa is a special haven that gives you a true break from life's demands. Our skilled therapists, pristine surroundings, and the owner's personal care for every detail create an experience you'll feel in every fiber of your being. Whether you're coming alone or as a couple, you're at home."
+        },
+        "years_value": {
+          "he": "4.5 כוכבים",
+          "en": "4.5 Stars"
+        }
+      }
+    },
+    {
+      "id": "services",
+      "variant": "",
+      "visible": true,
+      "content": {
+        "subtitle": {
+          "he": "כל טיפול מעוצב בקפידה כדי לעזור לך להירגע, להתאושש ולהרגיש בחדש",
+          "en": "Every treatment is carefully designed to help you relax, recover, and feel renewed"
+        },
+        "cta": {
+          "he": "בחר את הטיפול שלך",
+          "en": "Choose Your Treatment"
+        }
+      },
+      "items": [
+        {
+          "id": "1",
+          "icon": "Bath",
+          "title": {
+            "he": "עיסוי זוגות",
+            "en": "Couples Massage"
+          },
+          "desc": {
+            "he": "חוויית עיסוי מפנקת לשניים בחדר פרטי עם ג'קוזי וכוסות יין, ליצירת זיכרונות שלא יישכחו",
+            "en": "Indulgent massage experience for two in a private room with jacuzzi and wine, creating unforgettable memories together"
+          }
+        },
+        {
+          "id": "2",
+          "icon": "Droplets",
+          "title": {
+            "he": "מסאז' קלאסי",
+            "en": "Classic Massage"
+          },
+          "desc": {
+            "he": "עיסוי מרגיע המשחרר מתח וחוזק מהגוף, בידי מטפלים מיומנים ומטפחים",
+            "en": "Soothing massage that releases tension and restores vitality, performed by skilled and caring therapists"
+          }
+        },
+        {
+          "id": "3",
+          "icon": "Waves",
+          "title": {
+            "he": "טיפולי מים",
+            "en": "Water Therapies"
+          },
+          "desc": {
+            "he": "שימוש בכוח המים לרפואה ותעלולים, כולל ג'קוזי חם ומרגיע",
+            "en": "Harness the healing power of water with our warm jacuzzi and aquatic wellness treatments"
+          }
+        },
+        {
+          "id": "4",
+          "icon": "Heater",
+          "title": {
+            "he": "טיפולי ספא מחממים",
+            "en": "Warm Spa Treatments"
+          },
+          "desc": {
+            "he": "טיפולים מחממים הפועלים לשיפור זרימת הדם וירידה של שרירים קשוחים",
+            "en": "Warming treatments designed to improve circulation and relieve muscle tension"
+          }
+        },
+        {
+          "id": "5",
+          "icon": "Leaf",
+          "title": {
+            "he": "אטמוספירה מנותקת",
+            "en": "Escape Experience"
+          },
+          "desc": {
+            "he": "מקום שמנתק אותך מן היום יום וממצא אתך לחופשה קטנה בלב תל אביב",
+            "en": "A sanctuary that disconnects you from daily stress and transports you to a mini vacation in the heart of Tel Aviv"
+          }
+        },
+        {
+          "id": "6",
+          "icon": "Star",
+          "title": {
+            "he": "שירות VIP אישי",
+            "en": "Personalized VIP Service"
+          },
+          "desc": {
+            "he": "דאגה אישית של הבעלים לכל פרט, מחלוקים נוחים ועד טיפול מותאם אישית",
+            "en": "Owner's personal attention to every detail, from comfortable robes to customized treatments tailored to your needs"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gallery",
+      "variant": "E",
+      "visible": true,
+      "content": {
+        "subtitle": {
+          "he": "ראה את המקום הנהדר שלנו וההנאות המחכות לך",
+          "en": "Discover our beautiful sanctuary and the pleasures awaiting you"
+        }
+      },
+      "items": [
+        {
+          "url": "/images/photo-1.webp",
+          "thumb": "/images/photo-1.webp",
+          "source": "owner",
+          "alt": {
+            "he": "Sea & Spa - תמונה 1",
+            "en": "Sea & Spa - Photo 1"
+          }
+        },
+        {
+          "url": "/images/photo-2.webp",
+          "thumb": "/images/photo-2.webp",
+          "source": "owner",
+          "alt": {
+            "he": "Sea & Spa - תמונה 2",
+            "en": "Sea & Spa - Photo 2"
+          }
+        },
+        {
+          "url": "/images/photo-3.webp",
+          "thumb": "/images/photo-3.webp",
+          "source": "owner",
+          "alt": {
+            "he": "Sea & Spa - תמונה 3",
+            "en": "Sea & Spa - Photo 3"
+          }
+        },
+        {
+          "url": "/images/photo-4.webp",
+          "thumb": "/images/photo-4.webp",
+          "source": "owner",
+          "alt": {
+            "he": "Sea & Spa - תמונה 4",
+            "en": "Sea & Spa - Photo 4"
+          }
+        },
+        {
+          "url": "/images/photo-5.webp",
+          "thumb": "/images/photo-5.webp",
+          "source": "owner",
+          "alt": {
+            "he": "Sea & Spa - תמונה 5",
+            "en": "Sea & Spa - Photo 5"
+          }
+        },
+        {
+          "url": "/images/photo-6.webp",
+          "thumb": "/images/photo-6.webp",
+          "source": "owner",
+          "alt": {
+            "he": "Sea & Spa - תמונה 6",
+            "en": "Sea & Spa - Photo 6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reviews",
+      "variant": "C",
+      "visible": true,
+      "items": [
+        {
+          "author": "Mazal Mishieva",
+          "rating": 5,
+          "text": {
+            "he": "הייתה לי ולבן הזוג שלי חוויה מצויינת! המקום נראה ממש מדהים, נקי ומסודר. אחרי שקיבלנו חלוקים הובילו אותנו לחדר הטיפולים והיו לנו שני מסאז׳יטים מעולים (אישית לי זו הייתה פעם ראשונה ומאוד אהבתי). בחדר שלנו היה ג׳קוזי (כבר היה מלא וחם כשהגענו) מיטה, שירותים ושתי כוסות יין :)\nבקיצור, חוויה מומלצת מאוד!",
+            "en": "הייתה לי ולבן הזוג שלי חוויה מצויינת! המקום נראה ממש מדהים, נקי ומסודר. אחרי שקיבלנו חלוקים הובילו אותנו לחדר הטיפולים והיו לנו שני מסאז׳יטים מעולים (אישית לי זו הייתה פעם ראשונה ומאוד אהבתי). בחדר שלנו היה ג׳קוזי (כבר היה מלא וחם כשהגענו) מיטה, שירותים ושתי כוסות יין :)\nבקיצור, חוויה מומלצת מאוד!"
+          },
+          "date": "2 years ago",
+          "iso_date": "2024-05-01T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "netanel sabag (awsome)",
+          "rating": 5,
+          "text": {
+            "he": "אירוח מדהים, חדר נקי אנשים טובים עיסוי אש אווירה מפנקת",
+            "en": "אירוח מדהים, חדר נקי אנשים טובים עיסוי אש אווירה מפנקת"
+          },
+          "date": "2 years ago",
+          "iso_date": "2024-05-01T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Moshe Michali",
+          "rating": 5,
+          "text": {
+            "he": "היה ממש מקסים ונחמד, בהחלט תמורה מלאה בעד האגרה!\nערן(בעלים) דאג באופן אישי לכל פרט שנצא מרוצים, וכך היה..😃 …",
+            "en": "היה ממש מקסים ונחמד, בהחלט תמורה מלאה בעד האגרה!\nערן(בעלים) דאג באופן אישי לכל פרט שנצא מרוצים, וכך היה..😃 …"
+          },
+          "date": "2 years ago",
+          "iso_date": "2024-05-01T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Michael Oren",
+          "rating": 5,
+          "text": {
+            "he": "אחת החוויות היותר מדהימות שאפשר לקבל בעיר הזאת. הגעתי וקיבלו אותנו מדהים בצייר ובחיוך. תודה לשירז שקיבלה אותנו ודאגה לכך מה שהיינו צריכים. עם טיפול מסאג מהמם\nמקום שפשוט מנתק אותך מהיום יום ושולח אותך לחופשה קטנה",
+            "en": "אחת החוויות היותר מדהימות שאפשר לקבל בעיר הזאת. הגעתי וקיבלו אותנו מדהים בצייר ובחיוך. תודה לשירז שקיבלה אותנו ודאגה לכך מה שהיינו צריכים. עם טיפול מסאג מהמם\nמקום שפשוט מנתק אותך מהיום יום ושולח אותך לחופשה קטנה"
+          },
+          "date": "2 years ago",
+          "iso_date": "2024-05-01T10:45:58.370Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "ניצן ברכה",
+          "rating": 5,
+          "text": {
+            "he": "עשיתי מסאז אצל נטלי והיא פשוט הפכה אותי לאדם חדש!!! תודה על חוויה מושלמת נהננו ממש בשהות בסוויטה ♥️♥️",
+            "en": "עשיתי מסאז אצל נטלי והיא פשוט הפכה אותי לאדם חדש!!! תודה על חוויה מושלמת נהננו ממש בשהות בסוויטה ♥️♥️"
+          },
+          "date": "2 years ago",
+          "iso_date": "2024-05-01T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "אברהם נינו",
+          "rating": 5,
+          "text": {
+            "he": "המסאג היה מעולה, הצוות היה ממש נחמד וסבלני לכל הבקשות שהיו לנו, החדר והגקוזי היו מושלמים... ממליץ בחום!",
+            "en": "המסאג היה מעולה, הצוות היה ממש נחמד וסבלני לכל הבקשות שהיו לנו, החדר והגקוזי היו מושלמים... ממליץ בחום!"
+          },
+          "date": "2 years ago",
+          "iso_date": "2024-05-01T10:45:58.370Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "לירז קליפה",
+          "rating": 5,
+          "text": {
+            "he": "רוצה להגיד שממש נהננתי .מטפלות מהממות עדינות נקיות ממש יצאתי מרוצה. מקום אינטימי יחס מהממם ממליצה בחום !!!!",
+            "en": "רוצה להגיד שממש נהננתי .מטפלות מהממות עדינות נקיות ממש יצאתי מרוצה. מקום אינטימי יחס מהממם ממליצה בחום !!!!"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "טירונש וואסיה",
+          "rating": 5,
+          "text": {
+            "he": "וואווו הבחירה הכי טובה שלי!!ואחלה של שירות ואני בהחלט אחזור לשם שוב ושוב😍🤩 …",
+            "en": "וואווו הבחירה הכי טובה שלי!!ואחלה של שירות ואני בהחלט אחזור לשם שוב ושוב😍🤩 …"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Sheli Shachar",
+          "rating": 5,
+          "text": {
+            "he": "מקום מהמם שירות מעולה אנשים נעימים ממליצה ברמותתת!",
+            "en": "מקום מהמם שירות מעולה אנשים נעימים ממליצה ברמותתת!"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Maayan Harush",
+          "rating": 5,
+          "text": {
+            "he": "מקום מהמם איכות מטורפת אווירה מדהימה",
+            "en": "מקום מהמם איכות מטורפת אווירה מדהימה"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "יעל מנצורה",
+          "rating": 5,
+          "text": {
+            "he": "איןן על המקום שירות מעולה , ממליצה בחום!!🫶🏼🫶🏼 …",
+            "en": "איןן על המקום שירות מעולה , ממליצה בחום!!🫶🏼🫶🏼 …"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "osnat zohar",
+          "rating": 5,
+          "text": {
+            "he": "הגענו לערב פינוק ועיסוי זוגי, המקום יפהפה, המטפלות היו מקסימות ומקצועיות ובנוסף קיבלנו חדר מהמם עם גקוזי פלטת פירות ושמפניה. הכול היה פשוט מושלם ובהחלט שאנחנו נשוב",
+            "en": "הגענו לערב פינוק ועיסוי זוגי, המקום יפהפה, המטפלות היו מקסימות ומקצועיות ובנוסף קיבלנו חדר מהמם עם גקוזי פלטת פירות ושמפניה. הכול היה פשוט מושלם ובהחלט שאנחנו נשוב"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "noga maor",
+          "rating": 5,
+          "text": {
+            "he": "היה מושלם נהנו מאוד",
+            "en": "היה מושלם נהנו מאוד"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "יגאל נמני",
+          "rating": 5,
+          "text": {
+            "he": "עיסוי מקצועי, חדרים נעימים ומאובזרים. המקום נקי",
+            "en": "עיסוי מקצועי, חדרים נעימים ומאובזרים. המקום נקי"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "סמדר אלקיים",
+          "rating": 5,
+          "text": {
+            "he": "חגגנו יום הודלת באנו שלוש בנות, היה ממש אווירה מהנה , ארוחת בוקר מפנקת עיסוי מקצועי והכל ברמה טובה, ממליצות בחום !!",
+            "en": "חגגנו יום הודלת באנו שלוש בנות, היה ממש אווירה מהנה , ארוחת בוקר מפנקת עיסוי מקצועי והכל ברמה טובה, ממליצות בחום !!"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Shachar Haj",
+          "rating": 5,
+          "text": {
+            "he": "חוויה מדהימה מטפלות נהדרות ושירות עשר מעשר ❤️",
+            "en": "חוויה מדהימה מטפלות נהדרות ושירות עשר מעשר ❤️"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "David Sherrington",
+          "rating": 5,
+          "text": {
+            "he": "חוויה מדהימה ושירות מעולה",
+            "en": "חוויה מדהימה ושירות מעולה"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "שיר כהן גדול",
+          "rating": 5,
+          "text": {
+            "he": "חוויה יוצאת דופן! פינוק מכל הבא ליד ויחס אישי מהמם! אנשים טובים ופשוט כיף גדול, ממליצה בחום❤️",
+            "en": "חוויה יוצאת דופן! פינוק מכל הבא ליד ויחס אישי מהמם! אנשים טובים ופשוט כיף גדול, ממליצה בחום❤️"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "הדס מושיוב",
+          "rating": 5,
+          "text": {
+            "he": "מקום מהמם המארח היה נפלא ומתחשב מטפלות ברמה גבוהה ממליצה",
+            "en": "מקום מהמם המארח היה נפלא ומתחשב מטפלות ברמה גבוהה ממליצה"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Meir Carmel",
+          "rating": 5,
+          "text": {
+            "he": "רמה גבוהה מאד. מטפלים מאד מקצועיים",
+            "en": "רמה גבוהה מאד. מטפלים מאד מקצועיים"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Hana Foigel",
+          "rating": 5,
+          "text": {
+            "he": "מקום נחמד מאוד, חגגנו מסיבת רווקות ונהננו.",
+            "en": "מקום נחמד מאוד, חגגנו מסיבת רווקות ונהננו."
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "benel zilcha",
+          "rating": 5,
+          "text": {
+            "he": "היה מדהים עיסוי מפנק בטירוף השירות ליגת אלופות חד משמעית אחזור לכאן בשנית!",
+            "en": "היה מדהים עיסוי מפנק בטירוף השירות ליגת אלופות חד משמעית אחזור לכאן בשנית!"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "יפעת וודיסלבסקי",
+          "rating": 5,
+          "text": {
+            "he": "היה מצוין נבוא שוב",
+            "en": "היה מצוין נבוא שוב"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "בת-אל רחמים",
+          "rating": 5,
+          "text": {
+            "he": "חווה לא נורמאלית היה ממש כיף ממליצה בחום מה שבטוח שאנחנו נחזור",
+            "en": "חווה לא נורמאלית היה ממש כיף ממליצה בחום מה שבטוח שאנחנו נחזור"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "נויה הרשקוביץ",
+          "rating": 5,
+          "text": {
+            "he": "מקום מדהים!!! יחס מהמם ומסאז מדהים!!!\nמרגיע מאוד ומפנק",
+            "en": "מקום מדהים!!! יחס מהמם ומסאז מדהים!!!\nמרגיע מאוד ומפנק"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "Shirel design",
+          "rating": 5,
+          "text": {
+            "he": "פשוט מושלם!! הצוות מעולים חוויה מצויינת 10/10",
+            "en": "פשוט מושלם!! הצוות מעולים חוויה מצויינת 10/10"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": false
+        },
+        {
+          "author": "dan golub",
+          "rating": 5,
+          "text": {
+            "he": "חוויה מדהימה ומומלצת,מקום מושלם",
+            "en": "חוויה מדהימה ומומלצת,מקום מושלם"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "מנחם ברכץ",
+          "rating": 5,
+          "text": {
+            "he": "מומלץ בחום. אחלה ערן הבעלים.",
+            "en": "מומלץ בחום. אחלה ערן הבעלים."
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "מאיר מלל",
+          "rating": 5,
+          "text": {
+            "he": "Every thing in this hotel is made with love and a lot of thinking. The hospitality, the food, the rooms, the small gifts which you  are, receiving every morning, made our 5 nights an unforgeten stay.",
+            "en": "Every thing in this hotel is made with love and a lot of thinking. The hospitality, the food, the rooms, the small gifts which you  are, receiving every morning, made our 5 nights an unforgeten stay."
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": true
+        },
+        {
+          "author": "Talia Caspian",
+          "rating": 5,
+          "text": {
+            "he": "Спасибо за качественные услуги. В Вашем салоне впервые. Очень все понравилось. Уютная атмосфера, обслуживание превосходное.Теперь ждите в гости каждый месяц. Массажисты профессионалы своего дела,  полностью восстановили и подарили легкость во всем теле и душе! Комнаты для отдыха чистые, джакузи, музыка, свежие фрукты, всё супер 🤗🙌👍",
+            "en": "Спасибо за качественные услуги. В Вашем салоне впервые. Очень все понравилось. Уютная атмосфера, обслуживание превосходное.Теперь ждите в гости каждый месяц. Массажисты профессионалы своего дела,  полностью восстановили и подарили легкость во всем теле и душе! Комнаты для отдыха чистые, джакузи, музыка, свежие фрукты, всё супер 🤗🙌👍"
+          },
+          "date": "3 years ago",
+          "iso_date": "2023-05-02T10:45:58.370Z",
+          "is_local_guide": false
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "variant": "",
+      "visible": true,
+      "content": {
+        "subtitle": {
+          "he": "יש שאלות? אנחנו כאן כדי לעזור. צרו קשר היום ובואו לחוויה בלתי שכחה.",
+          "en": "Have questions? We're here to help. Reach out today and come experience the magic."
+        },
+        "wa_hello": {
+          "he": "שלום! ברצוני לשאול על הטיפולים שלכם",
+          "en": "Hi! I'd like to ask about your treatments"
+        }
+      }
+    },
+    {
+      "id": "location",
+      "variant": "",
+      "visible": true
+    },
+    {
+      "id": "pricing",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "faq",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "team",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "before_after",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "video",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "menu",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "steps",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "stats",
+      "variant": "",
+      "visible": false,
+      "items": []
+    }
+  ]
+}

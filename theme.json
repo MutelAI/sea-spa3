@@ -1,0 +1,11 @@
+{
+  "primary_color": "rose",
+  "secondary_color": "emerald",
+  "hero_gradient": "from-rose-900 via-rose-800 to-emerald-900",
+  "contact_gradient": "from-emerald-900 via-rose-800 to-rose-900",
+  "font_heading": "Georgia, serif",
+  "font_body": "Open Sans, sans-serif",
+  "font_google_import": "@import url('https://fonts.googleapis.com/css2?family=Georgia:wght@400;700&family=Open+Sans:wght@400;500;600&display=swap');",
+  "brand_personality": "Warm, inviting, caring, luxurious yet approachable",
+  "logo_emoji": "Sparkles"
+}
