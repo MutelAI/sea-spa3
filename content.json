@@ -553,24 +553,24 @@
     {
       "id": "location",
       "variant": "",
-      "visible": false
+      "visible": true
     },
     {
       "id": "pricing",
       "variant": "",
-      "visible": false,
+      "visible": true,
       "items": []
     },
     {
       "id": "faq",
       "variant": "",
-      "visible": false,
+      "visible": true,
       "items": []
     },
     {
       "id": "team",
       "variant": "",
-      "visible": false,
+      "visible": true,
       "items": []
     },
     {
@@ -602,9 +602,28 @@
       "variant": "",
       "visible": false,
       "items": []
+    },
+    {
+      "id": "banner",
+      "variant": "A",
+      "visible": true
     }
   ],
   "hidden_sections": [
-    "hours"
+    "hours",
+    "whatsapp_fab"
+  ],
+  "banners": [
+    {
+      "cta_url": "מבצצעעעעע",
+      "id": "banner-1777638339375",
+      "active": true,
+      "title_he": "מבצצעעעעע",
+      "title_en": "מבצצעעעעע",
+      "desc_he": "מבצצעעעעע",
+      "desc_en": "מבצצעעעעע",
+      "cta_text_he": "מבצצעעעעע",
+      "cta_text_en": "מבצצעעעעע"
+    }
   ]
 }
